@@ -7,7 +7,7 @@ const Header = () => {
       <Navbar bg="light" data-bs-theme="light" expand="lg" collapseOnSelect>
         <Container>
           <Navbar.Brand to="/" as={Link}>
-            redux CRUD
+            MERN CRUD with RTK Query
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
